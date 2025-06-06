@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+❗❗❗Please visit this website: https://liang-ding.github.io/, a mirror site of seis.cloud, if seis.cloud displays a blank page.
+
 <!--
 **Liang-Ding/Liang-Ding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
